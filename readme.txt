@@ -8,3 +8,6 @@ https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
 __VS Code Source Control Doc__
 https://code.visualstudio.com/docs/editor/versioncontrol
+
+__Git in Sublime Text__
+https://www.youtube.com/watch?v=HLU_D8ZiqRs
